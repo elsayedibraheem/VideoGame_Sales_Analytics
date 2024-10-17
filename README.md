@@ -42,7 +42,9 @@ We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for 
 **Elsayed Ibrahim**
 - Data Analyst & Video Game Market Specialist
 - [LinkedIn](https://www.linkedin.com/in/elsayed-ibrahim-8102ab2a4/)
-
+- LinkedIn : https://www.linkedin.com/in/elsayed-ibrahim-8102ab2a4/
+- Email: elsayedibraheem@hotmail.com
+- Mobile: 00201003013667
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
