@@ -1,0 +1,32 @@
+Video Game Sales
+
+Video Game Sales
+Video game sales from North America, Japan, the EU, Africa, and the rest of the world for 64,016 titles released from 1971-2024, including information like critic's score, genre, console, and more.
+
+Recommended Analysis
+Which titles sold the most worldwide?
+
+Which year had the highest sales? Has the industry grown over time?
+
+Do any consoles seem to specialize in a particular genre?
+
+What titles are popular in one region but flop in another?
+
+Want feedback on your solutions?
+
+Share visualizations (and any applicable pivot tables, code, etc) on LinkedIn and mention @Maven Analytics. We would love to see your work and give our thoughts!
+Field	Description
+img	URL slug for the box art at vgchartz.com
+title	Game title
+console	Console the game was released for
+genre	Genre of the game
+publisher	Publisher of the game
+developer	Developer of the game
+critic_score	Metacritic score (out of 10)
+total_sales	Global sales of copies in millions
+na_sales	North American sales of copies in millions
+jp_sales	Japanese sales of copies in millions
+pal_sales	European & African sales of copies in millions
+other_sales	Rest of world sales of copies in millions
+release_date	Date the game was released on
+last_update	Date the data was last updated
